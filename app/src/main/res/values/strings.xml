@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">InstaGold</string>
+
+    <!-- Brand & Navigation -->
+    <string name="brand_wordmark">InstaGold</string>
+    <string name="brand_edition_badge">24K EDITION</string>
+    <string name="nav_feed">Feed</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_vault">Vault</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Actions & Controls -->
+    <string name="action_gold_studio">Gold Studio</string>
+    <string name="action_notifications">Activity</string>
+    <string name="action_like">Like post</string>
+    <string name="action_comment">Comments</string>
+    <string name="action_share">Share post</string>
+    <string name="action_save">Save to Vault</string>
+    <string name="action_copy_caption">Copy caption</string>
+    <string name="action_copy_bio">Copy bio</string>
+    <string name="action_hd_preview">HD Media Inspector</string>
+    <string name="action_save_to_gallery">Save to Gallery</string>
+    <string name="action_edit_profile">Edit Profile</string>
+    <string name="action_publish">Publish to Feed</string>
+    <string name="action_pick_photo">Choose Photo</string>
+    <string name="action_close">Close</string>
+
+    <!-- Empty states & Feedback -->
+    <string name="empty_vault_title">Your Gold Vault is Empty</string>
+    <string name="empty_vault_subtitle">Tap the bookmark icon on any post to curate your private collection.</string>
+    <string name="empty_explore_title">No Matching Creations</string>
+    <string name="empty_explore_subtitle">Try another luxury tag or clear your search filter.</string>
+    <string name="msg_caption_copied">Caption copied to clipboard</string>
+    <string name="msg_bio_copied">Bio copied to clipboard</string>
+    <string name="msg_saved_gallery">Saved HD image to Pictures/InstaGold</string>
+    <string name="msg_post_published">Published to your InstaGold feed</string>
+</resources>
